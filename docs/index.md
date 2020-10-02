@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+PROBLEM STATEMENT
 
-You can use the [editor on GitHub](https://github.com/UttamMalik/Product-Comparison-Service-/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Many customers usually are forced to visit multiple sites before buying a product. This is not usually a problem but there are times when it is very irritating and time consuming and it is difficult to remember each and every features of the product. It is also confusing to search as these websites have different interfaces so user needs to learn to use each and every interface which can be tedious.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+According to a study on shopbots, “shopbots can integrate retail promotions and incorporate recommender systems in order to provide greater values to their users. Shopbots or comparison shopping agents, which are websites providing online comparison shopping services to millions of shoppers every day, have been helping reduce the search cost of price and retailer-related information on the Web, and thereby improving market efficiency”.[1]
+According to another study, “it is anticipated that sellers will come to rely on pricebots, automated agents that employ price-setting algorithms in an attempt to maximize profits”. A shopbot available at shopper.com claims to compare 1,000,000 prices on 100,000computer-oriented products. DealPilot.com (formerlyacses.com) is a shopbot that gathers, collates and sorts prices and expected delivery times of books, CDs, and movies ordered for sale on-line. One of the most popular shopbots, mysimon.com, compares office supplies, groceries, toys, apparel, and consumer electronics, just to name a few of the items on its product line. As the range of products covered by shopbots expands to include more complex products such as consumer electronics, the level of shopbot sophistication is rising accordingly. On August 16th, 1999,mysimon.comincorporated technology that, for products with multiple features such as digital cameras, uses a series of questions to elicit multi-attribute utilities from buyers, and then sorts products according to the buyer's specified utility. [2]
+OBJECTIVES
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+•	System for searching for similar products on multiple e-commerce websites.
+•	Comparison of products by multiple aspects.
+•	Single, unified interface for multiple e-commerce websites.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UttamMalik/Product-Comparison-Service-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
